@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jineshsoni
-- 👀 I’m interested in Product development
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on Android / Flutter / Web3
+- 👀 I’m interested in developing worldclass products
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Android / Flutter / AI / Web3
 - 📫 Reach me at hi@jineshsoni.com
 
 <!---
